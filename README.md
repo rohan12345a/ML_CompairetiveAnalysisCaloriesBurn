@@ -94,10 +94,15 @@ To run this project, you need Python and the following libraries:
 - scikit-learn
 - xgboost
 
+## Video Demonstration
+https://github.com/rohan12345a/ML_CompairetiveAnalysisCaloriesBurn/assets/109196424/5ca94d12-f7c4-4eac-894d-0e8fcd5dc782
+
 You can install the required libraries using:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
-## Video Demonstration
-https://github.com/rohan12345a/ML_CompairetiveAnalysisCaloriesBurn/assets/109196424/5ca94d12-f7c4-4eac-894d-0e8fcd5dc782
+# For running streamlit file:
+streamlit run calorie_dep.py
+
+
 

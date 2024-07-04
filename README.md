@@ -1,6 +1,6 @@
 # Calorie Prediction Using Various Machine Learning Models
 
-This project aims to predict the number of calories burned during physical activities using various machine learning algorithms. We perform a comparative analysis to evaluate the performance of different models and identify the most accurate method for calorie prediction.
+This project aims to predict the number of calories burned during physical activities using various machine-learning algorithms. We perform a comparative analysis to evaluate the performance of different models and identify the most accurate method for calorie prediction.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -97,3 +97,7 @@ To run this project, you need Python and the following libraries:
 You can install the required libraries using:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+
+## Video Demonstration
+https://github.com/rohan12345a/ML_CompairetiveAnalysisCaloriesBurn/assets/109196424/5ca94d12-f7c4-4eac-894d-0e8fcd5dc782
+

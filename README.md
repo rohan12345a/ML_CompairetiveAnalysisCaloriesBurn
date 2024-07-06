@@ -72,8 +72,8 @@ The performance of each model was evaluated using the following metrics:
 
 | Model                     | MAE      | MSE       | R2     |
 |---------------------------|----------|-----------|--------|
-| Linear Regression         | 8.2910     | 126.12    | 0.9677 |
-| Ridge Regression          | 8.29     | 126.12    | 0.9677 |
+| Linear Regression         | 8.2910     | 126.120    | 0.967 |
+| Ridge Regression          | 8.290     | 126.11    | 0.9677 |
 | Lasso Regression          | 9.05     | 151.14    | 0.9612 |
 | Decision Tree             | 3.47     | 28.75     | 0.9926 |
 | Random Forest             | 1.74     | 8.11      | 0.9979 |
